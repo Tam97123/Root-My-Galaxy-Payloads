@@ -146,17 +146,17 @@
       }
     },
     {
-      "payloadId": "a37-A376BXXS4AZG4",
+      "payloadId": "a37-104128",
       "displayName": "Galaxy A37 | Kernel 6.1.138",
       "models": ["SM-A376B"],
       "kernelVersions": ["6.1.138"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/Tam97123/Root-My-Galaxy-Payloads/main/build/cve-2026-43499",
-        "size": 96504
+        "size": 104128
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/Tam97123/Root-My-Galaxy-Payloads/main/build/cve-2026-43499",
-        "size": 96504
+        "size": 104128
       }
     }
   ]
